@@ -1,0 +1,137 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.container
+ {
+    
+    position: absolute;   
+    background-color: rgba(221, 223, 189, 0.782);  
+    width: 100%;
+   
+}
+
+.divHead
+{
+    background-image: url(backgnd1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 5px double black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1
+{
+   padding-top: 15px;
+   padding-left: 10px;
+   text-decoration: none;
+   text-align: center;
+}
+
+#form
+{
+    text-align: center;
+    width: 80%;
+    margin-top: 10px;
+    background-color: red;
+    line-height: 250%;
+    background: #ebebf579;
+}
+.your_name 
+{
+    position: relative;
+   
+}
+ 
+.name1
+{
+    width: 20%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+}
+
+.name2
+{
+    width: 20%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.email1
+{
+    width: 40.5%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.password1
+{
+    width: 40.5%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.phone1
+{
+    width: 40.5%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.pin1
+{
+    width: 40.5%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.date1
+{
+    width: 40.5%;
+    height: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.register
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 30px 10px 30px;
+    background: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 12px;
+    border: 1px solid black;
+    background: rgb(239, 100, 19);
+}
+label
+{
+    text-align: left;
+}
+input
+{
+    background-color:transparent;
+    border:0 ;
+    border-bottom: 2px solid black;
+}
+
+input::placeholder
+{
+    color: black;
+    opacity: 0.6;
+    font-size: 12px;
+}

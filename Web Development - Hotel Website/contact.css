@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+h1
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+
+}
+.container
+ {
+    position: absolute;
+    width: 100%;
+   
+  
+   
+}
+.mainhead
+{
+    margin-top: 20px;
+    background-color: rgba(221, 223, 189, 0.782);  
+}
+
+.insta
+{
+    text-decoration: none;
+    font-size: 24px;
+    text-align: left;
+   
+}
+
+
+.InstaIcon
+{
+    width: 60px;
+    height: 60px;
+}
+.fb
+{
+    text-decoration: none;
+    font-size: 24px;
+    /* text-align: left; */
+
+}
+
+.fbIcon
+{
+    width: 60px;
+    height: 60px;
+}
+
+.phoneIcon
+{
+    width: 60px;
+    height: 60px;
+}
+
+.no 
+{
+    text-decoration: none;
+    font-size: 24px; 
+}
+
+a 
+{
+    color: rgb(12, 11, 11);
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-left: 8px;
+    padding-right: 8px;  
+}
+
+.home
+{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px 8px;
+    background-color: rgb(187, 188, 163);
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+
+.tableNew
+{
+   
+    background-color: rgba(192, 195, 152, 0.782);  
+    border:5px black double;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}

@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.container
+ {
+    position: absolute;   
+    background-color: rgba(221, 223, 189, 0.782);  
+   
+}
+.home
+{
+   position: absolute;
+    margin-top: 490px;
+    margin-left: 560px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px 8px;
+    background-color: rgb(187, 188, 163);
+    border-radius: 8px;
+    
+}
+a 
+{
+    text-decoration: none;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+h1
+{
+    position: absolute;
+    margin-top: 15px;
+    padding-left: 25px;
+}
+.img1 
+{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
+
+.img2
+{
+    position: relative;
+    padding-top: 30px;
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
+
+.img3
+{
+    position: relative;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
+
+.img4
+{
+    position: relative;
+    margin-left: 20px;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
