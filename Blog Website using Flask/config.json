@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingblog",
+    "prod_uri": "mysql://root:@localhost/codingblog",
+    "fb_url" : "https://facebook.com/codingblog",
+    "tw_url": "https://twitter.com/codingblog",
+    "gh_url": "https://github.com/codingblog",
+    "blog_name": " Coding Blog",
+    "tag_line": "A Blog liked by Programmers",
+   "gmail-user": "Your's email id",
+    "gmail-password": "Your's mail password",
+    "about_text": "Hi my name is Shalini. I am a student and I am learning to create the website using flask.",
+    "no_of_posts": 6,
+    "admin_user": "Shalini",
+    "admin_password": "password"
+
+  }
+}
